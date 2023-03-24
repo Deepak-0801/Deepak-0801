@@ -8,7 +8,7 @@ I'm currently pursuing my graduation in Computer Science 🎓 from SRM Institute
 
 Joined Github **1** year ago.
 
-<img align="right" height="250" width="375" alt="" src="https://giphy.com/embed/7NoNw4pMNTvgc" />
+<img align="right" height="250" width="375" alt="" src="https://giphy.com/gifs/content-7NoNw4pMNTvgc" />
 
 
 
