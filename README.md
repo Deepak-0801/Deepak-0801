@@ -16,7 +16,7 @@ Joined Github **1** year ago.
 
 - 🛠 &nbsp; I’m currently working with Python,Matlab and R.
 - 🚀 &nbsp; I’m learning Data Analysis with R.
-- 👾 &nbsp; Fun fact: "Debugging" was coined when they found an actual bug in the computer.
+- 👾 &nbsp; Fun fact: The first hard drive was 5 MB in size.
 - 📫 &nbsp; How to reach me: dk7483@srmist.edu.in (or) dksiva812@gmail.com.
 
 ### My Absolute Favorites:
