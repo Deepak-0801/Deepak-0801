@@ -8,7 +8,7 @@ I'm currently pursuing my graduation in Computer Science 🎓 from SRM Institute
 
 Joined Github **1** year ago.
 
-<img align="right" height="250" width="375" alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdouble-keyboard&psig=AOvVaw1Nqy26yul3UfzWbxVopnFP&ust=1679777986476000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDjl-W69f0CFQAAAAAdAAAAABAD" />
+<img align="right" height="250" width="375" alt="" src="giphy.gif" />
 
 
 
