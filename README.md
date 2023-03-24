@@ -16,7 +16,7 @@ Joined Github **1** year ago.
 
 - 🛠 &nbsp; I’m currently working with Python,Matlab and R.
 - 🚀 &nbsp; I’m learning Data Analysis with R.
-- 👾 &nbsp; Fun fact: The term "debugging" was coined when a real bug caused a malfunction in the Harvard Mark II computer in 1947.
+- 👾 &nbsp; Fun fact: "Debugging" was coined when they found an actual bug in the computer.
 - 📫 &nbsp; How to reach me: dk7483@srmist.edu.in (or) dksiva812@gmail.com.
 
 ### My Absolute Favorites:
