@@ -21,7 +21,7 @@ Joined Github **1** year ago.
 ### My Absolute Favorites:
 
 - :robot: &nbsp; I love AI.
-- :sleeping: &nbsp; Sleeping.
+- 💻: &nbsp; Coding
 - 🍕 &nbsp; Food, Hackathons and Seminars.
 
 ### Languages and Tools:
